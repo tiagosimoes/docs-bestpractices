@@ -12,7 +12,7 @@ This article was written by [Remco Dekkinga](https://www.outsystems.com/profile/
 
 </div>
 
-There are several aspects to securing your Reactive Web Apps before launching them. This article covers them, and provides recommendations on securing your application.
+There are several aspects to securing your Reactive Web (and Mobile) Apps before launching them. This article covers them, and provides recommendations on securing your application.
 
 Specifically, a Reactive Web App consists of two parts, **client-side** and **server-side**. For both sides you need to think about different security measures.
 
